@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+--ion-color-partic: #5076f1
+  --ion-color-primary: #00a8a8;
+  --ion-color-primary-rgb: 0,168,168;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-secondary: #408080;
+  --ion-color-secondary-rgb: 64,128,128;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-tertiary: #004080;
+  --ion-color-tertiary-rgb: 0,64,128;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-medium: #989aa2;
+  --ion-color-medium-rgb: 152,154,162;
+  --ion-color-medium-contrast: #ffffff;
+  --ion-color-light: #f4f5f8;
+  --ion-color-light-rgb: 244,244,244;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0,0,0;
+
+.blank {
+	
+}
+
+.body {
+	background-color: #000000;
+}	
+
+.topGrid {
+	background-color: #000000;
+	background-size: auto;
+	
+}
+
+.naviCol {
+	overflow: hidden;
+	margin-left: 1.5px;
+	height: 100%;
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 12px;
+	align-items: center;
+}
+
+.fabList {
+	--background: #000000;
+}
+
+.colAll {
+	overflow: hidden;
+	margin-left: 1.5px;
+	margin-top: 1.5px;
+	height: 429px;
+	background-color: #EAEAEA;
+	-webkit-transition: height 1.3s; 
+    transition: height 1.3s;
+	padding: inherit;
+	
+	
+}
+
+.colAll:hover {
+	border: solid 3px #ffffff;
+	margin-left: 1.5px;
+	height: 665px;
+	background-color: #171717;
+	cursor:cell;
+}
+
+.footerCol {
+	border: solid 1px #535353;
+	overflow: visible;
+	margin-left: 1.5px;
+	height: auto;
+	background-color: #000000;	
+}
+
+.toolsFooter {
+	max-width: 15px;
+	min-width: 50%;
+
+	font-size: 12px;
+	
+	
+	
+	
+}
+
+.finalRow {
+	width: 100%;
+	height: 450px;
+	margin-top: 3px;
+	font-size: 100px;
+	background-color: #000000;
+	color: #FFFFFF;
+	background-attachment: fixed;
+	background-image: url(https://i.imgur.com/qSBWbJ0.jpg);
+}
+
+.ion-color-cblock1 {
+	--ion-color-base: #00a8a8;
+}
+	
+
+.ion-color-cblock1:hover {
+	--ion-color-base: #408080;
+
+}
+
+.ion-color-toggle1 {
+    
+	--background: #78c288;
+	--handle-background: #78c288;
+}
+
+.mainview_div {
+	width: 750px;
+	min-width: 45%;
+	overflow: visible;
+	
+	
+}
+	
+.main-card {
+	border: 2px solid #595959 ;
+	max-width: auto;	
+    height: 90%;	
+    transition: width 1.3s ease;
+	overflow: inherit;
+	
+	
+}
+
+.card-img {
+	border: 0.5px solid #C0C0C0 ;
+	position: inherit;
+	
+}
+
+.subTitle {
+	text-decoration-line: underline;
+	text-decoration-color: #519074 ;
+	text-decoration-style: solid;
+	color: #519074;
+}
+
+.listOneDiv {
+	position: relative;
+	
+}
+
+.btnDivId {
+	position: relative;
+}
+
+.tabsFooter {
+	display: inline-block;
+}
