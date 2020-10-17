@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Development Portfolio</title>
+    <script type='text/javascript' src="core/dist/ionic.js"></script>
+    <link rel="stylesheet" href="core/css/ionic.bundle.css">
+
+    <!-- style sheet-->
+    <style>
+         .image {
+            
+            max-width: 800px;
+            border: solid 1px;
+            border-color: #8b8b8b;
+            background-color: rgb(199, 199, 199);
+    
+    
+ }
+
+    @media only screen and (max-width: 600px) {
+        .image {
+            background-color: #ffffff;
+            visibility: visible;
+            max-width: 90%;
+
+}}
+#nav_bar {
+    background-color: black;
+    color:white;
+    padding-left: 35px;
+    padding-bottom: 10px;
+}
+
+#text_col {
+    color: black;
+    max-width: 100px;
+}
+    </style>
+</head>
+<body>
+    <ion-content>
+        <ion-grid> 
+            <ion-button size="small" color="dark" fill="outline" href="index.html">Back to Github</ion-button>
+            <ion-row id="nav_bar"> <!--Naigation bar-->
+                <h2>Development Portfolio</h2></br>
+            </ion-row> <br>
+
+            <ion_row class="content_row">
+                <ion-col class="img_col">
+                    <img class="image" src="images/00_dwa.png"  alt="">
+                    
+                </ion-col>
+                <ion-col class="text_col">
+                    <h1>Missouri Boil Water Alerts</h1>
+                    <p>Type: Prototype, UX, UI, Programming</p>
+                    <p>Client: IAKU</p> <p>Tools: GDscript, Pyhton 3, HTTP, GET/PUT, REGEX, WASM, POSTMAN, RestAPI</p>
+                    <p><i>Task:</i> Develop a cross-platform PC application.<br> <i>Requirements:</i> GET MO. Boil Water alerts, RestAPI 'Alert Feed', Custom UI/UX,   </p>
+                    <p><a href="https://lenardblair.github.io/dwa_01/" target="blank">DEMO [Prototype 0.2]</a><br> *Current Build: 0.8</p>
+                    <br><br><br><br>
+                </ion-col>
+            </ion_row>
+
+
+            <ion_row class="content_row">
+                <ion_col class="img_col">
+                    <img class="image" src="images/00_nisan.png"  alt="">
+                </ion_col>
+                <ion-col id="text_col">
+                    <h1>Nissan Dealer Web Portal</h1>
+                    <p>Type: Web Development, Design</p>
+                    <p>Client: Maritz / Nissan</p> <p>Tools: HTML, JS, CSS, VUE.js, Dealer-CMS</p>
+                    <p><i>Task:</i> Deploy design and development updates to over 100 Nissn Dealership websites.<br> 
+                    <p><a href="https://www.rosennissanmadison.com/nissan-commercial-vehicles/" target="blank">DEMO [Site Example]</a><br>
+                    <p><a href="https://lenardblair.github.io/editor-M-channel-services/" target="blank">DEMO [Tool 0.1]</a><br> *Vue.js, HTML5, CSS, IONIC</p>
+                    <br><br><br><br>
+                </ion-col>
+            </ion_row>
+
+            <ion_row class="content_row">
+                <ion_col class="img_col">
+                    <img class="image" src="images/00_bbeans.png"  alt="">
+                </ion_col>
+                <ion-col id="text_col">
+                    <h1>Bouncing Beans</h1>
+                    <p>Type: Prototype, Educational, PC Application</p>
+                    <p>Client: R.R. Software</p> <p>Tools: GDscript, HTML5, CSS, RestAPI, WebRTC</p>
+                    <p><i>Task:</i> Prototype a cross-platform educational app-module and provide proof-of-concept for the full Bouncing Beans EDU software portal.<br>
+                    <p><a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="blank" >DEMO [2.0]</a><br> *Current Build: 2.3</p>
+                    
+                    <br><br><br><br>
+                </ion-col>
+            </ion_row>
+
+            <ion_row class="content_row">
+                <ion-col id="text_col">
+                    <h1>Experiments:</h1>
+                    <a href="https://github.com/lenardblair/groglin_1" target="blank">Groglin | Type: Game Design, Gdscript, WASM-HTML5</a> <br>
+                    <a href="https://github.com/lenardblair/Bouncing_Beans_V0.5" target="blank">Bouncing Beans 0.5 | Type: Educational, Interactive Anime.js, HTML5, CSS, JS3</a>
+                    
+                    
+                    <br><br><br><br>
+                </ion-col>
+            </ion_row>
+        </ion-grid>
+    </ion-content>
+    
+</body>
+</html>
