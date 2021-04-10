@@ -5,7 +5,8 @@ L.Blair | Development &amp; Design
 <p>Type: Software | gdscript, openweathermap.org, rest-api, http-client</p>
 <p>Iaku Get Weather: A fun, minimalist, 5-Day Weather Forcast App. Designed for classroom and office display boards</p>
 <br>
-
+<HR WIDTH="50%" SIZE="3" NOSHADE>
+  
 <img src="images/bug_tracker_icon_512.png" alt="" width="150px"/>
 <a href="https://github.com/lenardblair/iaku_bug_tracker" target="_blank">Iaku Bug Tracker</a>
 <p>Type: Software | vue.js, express, sequelize, rest-api, gdscript, http-client</p>
