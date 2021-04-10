@@ -25,7 +25,21 @@ L.Blair | Development &amp; Design
 <p>Type: Game-Software | gdscript</p>
 <p>Master unique player movement, while tracking gems, generators and key areas to master each level.</p>
 
+<br>
 
+<img src="images/sebo_banner.jpg" alt="" width="150px"/>
+<a href="https://rustyraygun.github.io/sebo.html" target="_blank">Mudhead Bogo</a>
+<p>Type: Game-Software | gdscript</p>
+<p>Drop, Toss and Steer Sebo pinball style to clear the level of blocks.</p>
 
+<br>
+
+<img src="images/cells_icon_512png.png" alt="" width="150px"/>
+<a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="_blank">Bouncing Beans: Cells(i)</a>
+<p>Type: Game-Educational Software | gdscript, python, flask, flextype-cms</p>
+<p>Learn about the basics of Mitosis / The Cell Cycle with this interactive quiz.</p>
+
+<br>
+<a href="https://lenardblair.github.io/development_portfolio/index.html" alt="older-projects" target="_blank">Older Projects [archive]</a>
 
 
