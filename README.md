@@ -27,8 +27,8 @@ L.Blair | Development &amp; Design
 
 <br>
 
-<img src="images/sebo_banner.jpg" alt="" width="150px"/>
-<a href="https://rustyraygun.github.io/sebo.html" target="_blank">Mudhead Bogo</a>
+<img src="images/sebo_banner_2.jpg" alt="" width="150px"/>
+<a href="https://rustyraygun.github.io/sebo.html" target="_blank">Sebo Bounce</a>
 <p>Type: Game-Software | gdscript</p>
 <p>Drop, Toss and Steer Sebo pinball style to clear the level of blocks.</p>
 
