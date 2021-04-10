@@ -1,4 +1,5 @@
 L.Blair | Development &amp; Design
+<HR WIDTH="50%" SIZE="3" NOSHADE>
 
 <img src="images/icon_512.png" alt="" width="150px"/>
 <a href="https://lenardblair.github.io/get_weather" target="_blank">Iaku Get Weather</a>
