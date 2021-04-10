@@ -14,11 +14,11 @@ L.Blair | Development &amp; Design
 <p>A simple bug tracker with decoupled admin and front-end experiences</p>
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
-
-<img src="images/logo.png" alt="" width="150px"/>
-<a href="https://tools-and-projects.itch.io/gdscript-basics-app" target="_blank">GDScript Bascis App</a>
-<p>Type: Software | gdscript</p>
-<p>A simple GDScript Basics learning app and cheat-sheet.</p>
+  
+<img src="images/cells_icon_512png.png" alt="" width="150px"/>
+<a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="_blank">Bouncing Beans: Cells(i)</a>
+<p>Type: Game-Educational Software | gdscript, python, flask, flextype-cms</p>
+<p>Learn about the basics of Mitosis / The Cell Cycle with this interactive quiz.</p>
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
 
@@ -36,10 +36,10 @@ L.Blair | Development &amp; Design
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
 
-<img src="images/cells_icon_512png.png" alt="" width="150px"/>
-<a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="_blank">Bouncing Beans: Cells(i)</a>
-<p>Type: Game-Educational Software | gdscript, python, flask, flextype-cms</p>
-<p>Learn about the basics of Mitosis / The Cell Cycle with this interactive quiz.</p>
+<img src="images/logo.png" alt="" width="150px"/>
+<a href="https://tools-and-projects.itch.io/gdscript-basics-app" target="_blank">GDScript Bascis App</a>
+<p>Type: Software | gdscript</p>
+<p>A simple GDScript Basics learning app and cheat-sheet.</p>
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
 <HR WIDTH="50%" SIZE="3" NOSHADE>
