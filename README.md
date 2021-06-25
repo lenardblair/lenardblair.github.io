@@ -7,6 +7,13 @@ L.Blair | Development &amp; Design
 <p>Iaku Get Weather: A fun, minimalist, 5-Day Weather Forcast App. Designed for classroom and office display boards</p>
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
+
+<img src="https://raw.githubusercontent.com/rustyraygun/websockets_godot_processing/main/process_godot04.gif" alt="" width="350px"/>
+<a href="https://github.com/lenardblair/draw_box_websocket_v01" target="_blank">Draw Box</a>
+<p>Type: Prototype | gdscript, websockets, Processing[java], http-client</p>
+<p>Proof-of-concept: Connecting Processing with Godot using websockets </p>
+
+<br><HR WIDTH="50%" SIZE="3" NOSHADE>
   
 <img src="images/bug_tracker_icon_512.png" alt="" width="150px"/>
 <a href="https://github.com/lenardblair/iaku_bug_tracker" target="_blank">Iaku Bug Tracker</a>
@@ -15,8 +22,8 @@ L.Blair | Development &amp; Design
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
   
-<img src="images/promo_project_map_hero-img.png " alt="" width="350px"/>
-<a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="_blank">Bouncing Beans: Cells(i)</a>
+<img src="images/promo_project_map_hero-img.png " alt="" width="450px"/>
+<a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="_blank">Bouncing Beans [PLT]</a>
 <p>Type: Game-Educational Software | gdscript, python, flask, flextype-cms</p>
 
 
