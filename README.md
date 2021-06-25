@@ -15,10 +15,10 @@ L.Blair | Development &amp; Design
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
   
-<img src="images/cells_icon_512png.png" alt="" width="150px"/>
+<img src="images/promo_project_map_hero-img.png " alt="" width="350px"/>
 <a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="_blank">Bouncing Beans: Cells(i)</a>
 <p>Type: Game-Educational Software | gdscript, python, flask, flextype-cms</p>
-<p>Learn about the basics of Mitosis / The Cell Cycle with this interactive quiz.</p>
+
 
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
 
