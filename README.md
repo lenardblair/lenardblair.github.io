@@ -23,7 +23,7 @@ L.Blair | Development &amp; Design
 <br><HR WIDTH="50%" SIZE="3" NOSHADE>
   
 <img src="images/promo_project_map_hero-img.png " alt="" width="450px"/>
-<a href="https://github.com/lenardblair/bouncingbeans_cells_1" target="_blank">Bouncing Beans [PLT]</a>
+<a href="https://github.com/lenardblair/bouncing_beans_plt/tree/gh_pages" target="_blank">Bouncing Beans [PLT]</a>
 <p>Type: Game-Educational Software | gdscript, python, flask, flextype-cms</p>
 
 
